@@ -1,3 +1,12 @@
-p{
-    color:blue;
+h2{
+    margin-top:20px;
+    margin-bottom:5px;
+    color:navy;
+    text-align:center;
+}
+
+.hako{
+    margin:0 400px;
+    padding:10px;
+    border:blue 1px solid;
 }
